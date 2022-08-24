@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently looking for a job/internship
 - 🌱 I’m currently learning Java, Javascript and Python
 - 📧 : arthurformigademelo2@gmail.com
 - 📱 : (83)99626-8000
